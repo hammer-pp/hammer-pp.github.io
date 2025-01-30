@@ -4,7 +4,6 @@
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
 # Getting Started 
-eiei
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
